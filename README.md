@@ -41,7 +41,7 @@ The primary objective of this game is to help players:
 
 ## Installation
 To run the game, follow these steps:
-1. Download the latest release from the [Builds](link-to-builds-folder) folder.
+1. Download the latest release from the [Builds]([link-to-builds-folder](https://drive.google.com/drive/folders/1q5x3xEYhMrP5GKggsY-xWNp0v7lMVGHK?usp=sharing)) folder.
 2. Extract the files.
 3. Open the game executable (e.g., `ECOIQ.exe` for Windows).
 4. Enjoy playing!
