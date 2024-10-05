@@ -34,3 +34,4 @@ The following individuals contributed to the **ECOIQ: True or False** project as
 
 ### Acknowledgments
 We would like to thank NASA and the GLOBE Program for providing resources that helped shape this project.
+Additionally, we appreciate Raid Mowla for developing and hosting the project website using GitHub Pages.
