@@ -14,7 +14,7 @@ The following individuals contributed to the **ECOIQ: True or False** project as
    contributed to the presentation slides, and conducted research to formulate true/false questions based on the GLOBE Protocol.
 
 3. **Istiak Ahmmed Bishal**  
-   *Role*: Question Development, Presentation Slide Developer, Researcher  
+   *Role*: Question Development, Presentation Slide Developer, Researcher ,Logo designer
    *Contributions*: Researched and formulated true/false questions based on the GLOBE Protocol, contributed to the presentation slides, and enhanced the educational aspect of the trivia game.
 
 4. **Raid Mowla**  
